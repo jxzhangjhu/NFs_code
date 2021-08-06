@@ -21,7 +21,7 @@
 
   4. ['Manifold-flow'](https://github.com/johannbrehmer/manifold-flow) by [Kyle Cranmer](http://theoryandpractice.org/)
 
-    > In the paper Flows for simultaneous manifold learning and density estimation we introduce manifold-learning flows or ℳ-flows, a new class of generative models that simultaneously learn the data manifold as well as a tractable probability density on that manifold. This repository contains our implementation of ℳ-flows, as well as the code for our experiments with them.
+   > In the paper Flows for simultaneous manifold learning and density estimation we introduce manifold-learning flows or ℳ-flows, a new class of generative models that simultaneously learn the data manifold as well as a tractable probability density on that manifold. This repository contains our implementation of ℳ-flows, as well as the code for our experiments with them.
 
 
 <br>
