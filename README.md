@@ -17,11 +17,11 @@
 
 3. ['SNF'](https://github.com/noegroup/stochastic_normalizing_flows) by [Frank Noe's group](http://www.mi.fu-berlin.de/en/math/groups/ai4s)
 
-  > They introduce sochasticity in Boltzmann-generating flows. The key methodological advance is that we avoid to compute p(x) point-wise, which would require an intractable integration over all paths mapping to the same x, and show how both training of the flow and reweighting of p(x) to exp(-u(x)) can be done via path sampling and without requiring p(x) explicitly. Part of implementation is built based on the nflows.
+   > They introduce sochasticity in Boltzmann-generating flows. The key methodological advance is that we avoid to compute p(x) point-wise, which would require an intractable integration over all paths mapping to the same x, and show how both training of the flow and reweighting of p(x) to exp(-u(x)) can be done via path sampling and without requiring p(x) explicitly. Part of implementation is built based on the nflows.
 
   4. ['Manifold-flow'](https://github.com/johannbrehmer/manifold-flow) by [Kyle Cranmer](http://theoryandpractice.org/)
 
-  > In the paper Flows for simultaneous manifold learning and density estimation we introduce manifold-learning flows or ℳ-flows, a new class of generative models that simultaneously learn the data manifold as well as a tractable probability density on that manifold. This repository contains our implementation of ℳ-flows, as well as the code for our experiments with them.
+    > In the paper Flows for simultaneous manifold learning and density estimation we introduce manifold-learning flows or ℳ-flows, a new class of generative models that simultaneously learn the data manifold as well as a tractable probability density on that manifold. This repository contains our implementation of ℳ-flows, as well as the code for our experiments with them.
 
 
 <br>
