@@ -1,4 +1,4 @@
-# Normalizing flow implementations
+# Normalizing flow implementations and benchmarks
 
 <!-- ## 📦 Packages
 
@@ -67,7 +67,7 @@ Follow instructions from https://github.com/riannevdberg/sylvester-flows and pla
 Follow instructions from https://github.com/bayesiains/nflows and place them in data/
 
 
-References
+**References**
 
 1. Will Grathwohl, Ricky TQ Chen, Jesse Bettencourt, Ilya Sutskever, and David Duvenaud. "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models." In International Conference on Learning Representations. 2018.
 
