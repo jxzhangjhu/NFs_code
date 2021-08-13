@@ -39,14 +39,14 @@
 
 1. Density estimation on Toy 2D data
 
-<img src="figures/toy2d.png" alt="Normalizing Flow" width="700">
+<img src="figures/toy2d.png" alt="Normalizing Flow" width="500">
 
 Follow instructions from https://github.com/rtqichen/ffjord
 
 
 2. Density estimation on real data (tabular)
 
-<img src="figures/real_data.png" alt="Normalizing Flow" width="1000">
+<img src="figures/real_data.png" alt="Normalizing Flow" width="700">
 
 Follow instructions from https://github.com/gpapamak/maf and place them in data/
 
@@ -55,20 +55,20 @@ Follow instructions from https://github.com/gpapamak/maf and place them in data/
 
 1. Variational Autoencoder on four datasets
 
-<img src="figures/VAE.png" alt="Normalizing Flow" width="700">
+<img src="figures/VAE.png" alt="Normalizing Flow" width="600">
 
 Follow instructions from https://github.com/riannevdberg/sylvester-flows and place them in data/.
 
 
 ### Image generation
 
-<img src="figures/real_data.png" alt="Normalizing Flow" width="800">
+<img src="figures/real_data.png" alt="Normalizing Flow" width="600">
 
 Follow instructions from https://github.com/bayesiains/nflows and place them in data/
 
 
 References
 
-1. Will Grathwohl, Ricky TQ Chen, Jesse Bettencourt, Ilya Sutskever, and David Duvenaud. "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models." In International Conference on Learning Representations. 2018. 
+1. Will Grathwohl, Ricky TQ Chen, Jesse Bettencourt, Ilya Sutskever, and David Duvenaud. "FFJORD: Free-Form Continuous Dynamics for Scalable Reversible Generative Models." In International Conference on Learning Representations. 2018.
 
 2. Rianne Van Den Berg, Leonard Hasenclever, Jakub M. Tomczak, and Max Welling. "Sylvester normalizing flows for variational inference." In 34th Conference on Uncertainty in Artificial Intelligence 2018, UAI 2018, pp. 393-402. Association For Uncertainty in Artificial Intelligence (AUAI), 2018.
