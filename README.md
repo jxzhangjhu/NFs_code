@@ -32,3 +32,36 @@
 
 
 <br>
+
+## Benchmark problems
+
+### Density estimation
+
+1. Density estimation on Toy 2D data
+
+<img src="figures/toy2d.png" alt="Normalizing Flow" width="1000">
+
+Follow instructions from https://github.com/rtqichen/ffjord
+
+
+2. Density estimation on real data (tabular)
+
+<img src="figures/real_data.png" alt="Normalizing Flow" width="1000">
+
+Follow instructions from https://github.com/gpapamak/maf and place them in data/
+
+
+### Variational inference
+
+1. Variational Autoencoder on four datasets
+
+<img src="figures/VAE.png" alt="Normalizing Flow" width="1000">
+
+Follow instructions from https://github.com/riannevdberg/sylvester-flows and place them in data/.
+
+
+### Image generation
+
+<img src="figures/real_data.png" alt="Normalizing Flow" width="1000">
+
+Follow instructions from https://github.com/bayesiains/nflows and place them in data/
