@@ -10,9 +10,9 @@
 
 For ``FrEIA`` development:
 
-# first clone the repository
+####  first clone the repository
 git clone https://github.com/VLL-HD/FrEIA.git
-# then install in development mode, so that changes don't require a reinstall
+####  then install in development mode, so that changes don't require a reinstall
 cd FrEIA
 python setup.py develop
 
