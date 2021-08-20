@@ -1,4 +1,4 @@
-# Normalizing flow implementations and benchmarks
+# Normalizing flow for dynamics and time series problem
 
 <!-- ## 📦 Packages
 
@@ -6,7 +6,7 @@
 
 ## PyTorch Packages
 
-1. [`Dynamic NFs`](https://github.com/BorealisAI/continuous-time-flow-process) by [Ruizhi Deng et al.]
+1. [`Dynamic NFs`](https://github.com/BorealisAI/continuous-time-flow-process) by Ruizhi Deng et al., NeurIPS 2020.
 
     > Normalizing flows transform a simple base distribution into a complex target
 distribution and have proved to be powerful models for data generation and density
