@@ -1,0 +1,20 @@
+{
+    "batch_dim": 200,
+    "clip_norm": 0.1,
+    "dataset": "8gaussians",
+    "decay": 0.5,
+    "device": "cpu",
+    "experiment": "density2d",
+    "expname": "",
+    "flows": 1,
+    "hidden_dim": 50,
+    "layers": 2,
+    "learning_rate": 0.1,
+    "load": null,
+    "path": "checkpoint/8gaussians_layers2_h50_flows1_2021-08-20-10-19-37",
+    "patience": 2000,
+    "reduce_extreme": false,
+    "save": true,
+    "savefig": true,
+    "steps": 20000
+}
