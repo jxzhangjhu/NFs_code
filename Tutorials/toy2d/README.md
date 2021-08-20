@@ -1,6 +1,7 @@
 
-## Tutorial code for 2D density estimation and energy matching (variational inference)
-  >
+## Tutorial code for 2D density estimation and density matching
+  > density estimation
+  > density matching via variational inference
 
 
 ## Requirements
@@ -8,6 +9,8 @@
 * **``pytorch>=1.0.0``**
 * **``FrEIA 0.2``**
 
+
+---
 For ``FrEIA`` development:
 
 ####  first clone the repository
@@ -19,7 +22,7 @@ python setup.py develop
 Optional for visualization and plotting: ``numpy``, ``matplotlib`` and ``tensorboardX``
 
 
---- 
+---
 ### Run 2D toy density estimation
 This example runs density estimation on the `8 Gaussians` dataset using 1 flow of BNAF with 2 layers and 100 hidden units (`50 * 2` since the data dimensionality is 2).
 ```
