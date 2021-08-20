@@ -30,6 +30,9 @@
 
       > [Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913) by Brehmer & Cranmer.
 
+  5. ['BNAF'](https://github.com/nicola-decao/BNAF)  by De Cao Nicola et al.
+
+      > De Cao Nicola, Titov Ivan and Aziz Wilker, Block Neural Autoregressive Flow (2019)
 
 <br>
 
