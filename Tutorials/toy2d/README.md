@@ -18,9 +18,12 @@ python setup.py develop
 
 
 Optional for visualization and plotting: ``numpy``, ``matplotlib`` and ``tensorboardX``
+--- 
 
 
-#### Run 2D toy density estimation
+
+
+### Run 2D toy density estimation
 This example runs density estimation on the `8 Gaussians` dataset using 1 flow of BNAF with 2 layers and 100 hidden units (`50 * 2` since the data dimensionality is 2).
 ```
 python toy2d.py --dataset 8gaussians \    # which dataset to use
@@ -34,7 +37,7 @@ python toy2d.py --dataset 8gaussians \    # which dataset to use
 
 ![Imgur](https://i.imgur.com/DWVGsyn.jpg)
 
-#### Run 2D toy energy matching
+### Run 2D toy energy matching
 This example runs energy matching on the `t4` function using 1 flow of BNAF with 2 layers and 100 hidden units (`50 * 2` since the data dimensionality is 2).
 ```
 python toy2d.py --dataset t4 \            # which dataset to use
@@ -48,6 +51,6 @@ python toy2d.py --dataset t4 \            # which dataset to use
 
 ![Imgur](https://i.imgur.com/o1QR3XO.jpg)
 
-# BNAF
+#### BNAF paper  
 Pytorch implementation of Block Neural Autoregressive Flow based on our paper:
 > De Cao Nicola, Titov Ivan and Aziz Wilker, [Block Neural Autoregressive Flow](http://arxiv.org/abs/1904.04676) (2019)
