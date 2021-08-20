@@ -16,13 +16,10 @@ git clone https://github.com/VLL-HD/FrEIA.git
 cd FrEIA
 python setup.py develop
 
-
 Optional for visualization and plotting: ``numpy``, ``matplotlib`` and ``tensorboardX``
+
+
 --- 
-
-
-
-
 ### Run 2D toy density estimation
 This example runs density estimation on the `8 Gaussians` dataset using 1 flow of BNAF with 2 layers and 100 hidden units (`50 * 2` since the data dimensionality is 2).
 ```
